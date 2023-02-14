@@ -10,11 +10,11 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 80vh;
+    height: 75vh;
 }
 
 .container{
-    font-size: 30vh;
+    font-size: 22vh;
     color: red;
     animation:3s ease infinite corazon;
 } 
