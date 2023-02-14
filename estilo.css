@@ -14,7 +14,7 @@ body{
 }
 
 .container{
-    font-size: 40vh;
+    font-size: 60vh;
     color: red;
     animation:3s ease infinite corazon;
 } 
