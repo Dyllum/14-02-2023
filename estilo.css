@@ -17,6 +17,7 @@ body{
     font-size: 60vh;
     color: red;
     animation:3s ease infinite corazon;
+    text-shadow:4px 4px 25px rgba(255, 0, 0, 0.6);
 } 
 
 .container .contenido{
