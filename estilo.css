@@ -10,11 +10,11 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 100vh;
+    height: 80vh;
 }
 
 .container{
-    font-size: 40vh;
+    font-size: 30vh;
     color: red;
     animation:3s ease infinite corazon;
 } 
@@ -30,15 +30,13 @@ body{
 }
 
 .container .contenido h1{
-    font-size: 30px;
-    padding-top: 20px;
-    padding-left: 5px;
-    padding-right: 5px;
+    font-size: 20px;
+    padding: 10px;
 }
 
 .container .contenido p{
-    font-size: 15px;
-    padding-top: 10px; 
+    font-size: 10px;
+    padding-top: 8px; 
 }
 
 @keyframes corazon{
